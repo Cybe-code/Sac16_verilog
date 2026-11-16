@@ -1,0 +1,26 @@
+# Simulation generated files
+*.vcd
+*.fst
+*.lxt
+*.out
+*.o
+*.exe
+simv
+*.log
+build/
+obj_dir/
+
+# Synthesis generated files
+*.bit
+*.bin
+*.sof
+*.rbf
+*.edf
+
+# Editor and system files
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
